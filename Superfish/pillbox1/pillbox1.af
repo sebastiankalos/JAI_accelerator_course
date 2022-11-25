@@ -1,0 +1,18 @@
+PS2 40 MHz Pillbox Cavity
+
+
+PARTICLE H-,
+$reg kprob=1,           ; Superfish problem
+dx=5,                  ; X mesh spacing
+freq=40.,             ; Starting frequency in MHz
+icylin=1
+
+
+xdri=92.,ydri=587 $      ; Drive point location
+
+$po x=0.0,y=0.0 $       ; Start of the boundary points
+$po x=0.0,y=587 $
+$po x=92,y=587 $
+$po x=92,y=0.0 $
+$po x=0.0,y=0.0 $
+

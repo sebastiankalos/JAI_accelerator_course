@@ -1,0 +1,47 @@
+; DTLfish control file DTL100.dtl
+; Created 11-23-2022  13:08:36
+; Originating file DTL1.dtl
+
+Title
+DTL-type cavity
+Resonant frequency = 324 MHz
+ENDTitle
+
+PARTICLE              H-
+ 
+InitialEnergy         3     ; Energies used in program DTLCells
+ 
+FILEname_prefix       DTL   
+SEQuence_number       1
+FREQuency             324
+BETA                  0.079732
+LENGTH                7.37748526582
+DIAMeter              55.81982579555
+G_OVER_Beta_lambda    0.2
+GAP_Length            1.475497053164
+E0_Normalization      2.5
+E0T_Normalization     1.651383699544
+CORNER_radius         0.5
+INNER_nose_radius     0.15
+OUTER_nose_radius     0.3
+FLAT_length           0.2
+FACE_angle            10
+DRIFT_TUBE_Diameter   18
+GAP_Change            0.0
+STEM_Diameter         3
+STEM_Count            1
+BORE_radius           1.4
+PHASE_length          180
+DELTA_frequency       0.01
+MESH_size             0.02
+INCrement             2
+START                 -4
+
+; Start codes for DTLfish:
+; 1 No tuning
+; 2 Adjust tank diameter
+; 3 Adjust drift tube diameter (not recommended)
+; 4 Adjust gap
+; 5 Adjust face angle
+
+EndFile

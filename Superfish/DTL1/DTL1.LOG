@@ -1,0 +1,57 @@
+Los Alamos National Laboratory Poisson Superfish
+Program DTLfish written by James H. Billen
+
+The original Poisson Superfish codes were developed
+by Ron F. Holsinger in collaboration with Klaus Halbach.
+These programs are provided as a service to the accelerator
+community by the Los Alamos Accelerator Code Group (LAACG).
+
+(c) Copyright 1985-2005, by the Regents of the University of California.        
+This software was produced under U. S. Government contract W-7405-ENG-36        
+by Los Alamos National Laboratory, which is operated by the University          
+of California for the U. S. Department of Energy.  Neither the Government       
+nor the University makes any warranty, express or implied, or assumes           
+any liability or responsibility for its use, or represents that use of          
+this software would not infringe privately owned rights.                        
+Unpublished - rights reserved under Copyright Laws of the United States.        
+
+
+Program DTLfish  7.17  released 1-13-2006 
+
+Starting log file: Z:\Documents\OXFORD\JAI_accelerator_course\Superfish\DTL1\DTL1.LOG 11-23-2022  13:10:55
+Control file: Z:\Documents\OXFORD\JAI_accelerator_course\Superfish\DTL1\DTL1.dtl 11-23-2022  13:08:16
+SF.INI file: C:\LANL\SF.INI 11-21-2022  14:08:16
+
+
+
+
+ Problem  1                                                 11-23-2022  13:10:55
+START code = 4, tune varying gap
+
+Problem  1 of  1, Starting run  1, File DTL1.AM ---------------
+DTL-type cavity
+Resonant frequency = 324 MHz
+Adjusting gap, currently =   1.4754971,  g/bl = 0.2000000
+Memory used for the solution file:       1.341 M
+Memory used for Automesh setup data:   753.152 K
+ Segment numbers in SFO output:
+ Drift-tube stem            12 to 14
+ All metal surfaces          7 to 26
+ df/dr for tank wall         7 to 11
+ df/dz for d.t. diameter    15 to 16
+ df/dz for d.t. face        16 to 23
+Memory used for other Fish arrays:       2.151 M
+Cycle   FREQ      FREQERR    EPSIK     RESIK   DSTOLER  DSLOPE   Method
+  1   323.99974   0.00026   1.0E-04   1.6E-06  +-0.02   1.00000     1
+  2   323.99974   0.00026   1.0E-04   9.9E-12  +-0.02  -0.99999     3
+ df/dr =  -0.8448449 for segments  7 to 11.
+ df/dr =  -0.3136459 for segments 15 to 16.
+ df/dz =   7.8004084 for segments 16 to 23.
+ Results of run  1                                          11-23-2022  13:10:58
+ Freq = 323.9997439728944    gap= 1.475497053163951
+DTL-type cavity
+Resonant frequency = 324 MHz
+Adjusting gap, currently =   1.4754971,  g/bl = 0.2000000
+ End of problem DTL1.                                       11-23-2022  13:10:58
+ Final frequency = 323.9997 MHz.
+ Automesh input file is DTL1.AM.

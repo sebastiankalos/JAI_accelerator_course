@@ -1,0 +1,32 @@
+Los Alamos National Laboratory Poisson Superfish
+Program DTLfish written by James H. Billen
+
+The original Poisson Superfish codes were developed
+by Ron F. Holsinger in collaboration with Klaus Halbach.
+These programs are provided as a service to the accelerator
+community by the Los Alamos Accelerator Code Group (LAACG).
+
+(c) Copyright 1985-2005, by the Regents of the University of California.        
+This software was produced under U. S. Government contract W-7405-ENG-36        
+by Los Alamos National Laboratory, which is operated by the University          
+of California for the U. S. Department of Energy.  Neither the Government       
+nor the University makes any warranty, express or implied, or assumes           
+any liability or responsibility for its use, or represents that use of          
+this software would not infringe privately owned rights.                        
+Unpublished - rights reserved under Copyright Laws of the United States.        
+
+
+Program DTLfish  7.17  released 1-13-2006 
+
+Starting log file: Z:\Documents\OXFORD\JAI_accelerator_course\Superfish\DTL1\DTL100.LOG 11-23-2022  13:08:47
+Control file: Z:\Documents\OXFORD\JAI_accelerator_course\Superfish\DTL1\DTL100.dtl 11-23-2022  13:08:36
+SF.INI file: C:\LANL\SF.INI 11-21-2022  14:08:16
+
+
+
+
+ Problem  1                                                 11-23-2022  13:08:47
+START code =-4, skip (tuned varying gap)
+ There were no problems to solve in file DTL100.dtl.
+ Check the "vary #" parameter on the START lines.
+ The program skips problems with negative values for "vary #."

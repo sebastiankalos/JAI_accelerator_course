@@ -1,0 +1,31 @@
+; This file contains start-up settings for WSFplot
+MainWindowXPosition=  160
+MainWindowYPosition=   64
+MainWindowWidth= 1344
+MainWindowHeight=  840
+EditWindowXPosition= 1380
+EditWindowYPosition=  150
+HardcopyFileExtension=    
+NumberOfContours=   30
+ContourLineWidth=1
+AxisLineWidth=1
+ArrowLineWidth=1
+CircleLineWidth=1
+BoundaryLineWidth=1
+MeshLineWidth=1
+GridSpacing=  0.15000000    
+TitleStatus=1
+AxisStatus=1
+TriangleStatus=1
+ContourStatus=1
+ArrowStatus=1
+CircleStatus=0
+FooterStatus=1
+XYSwapStatus=0
+OriginStatus=0
+LastProblemFile=Z:\DOCUMENTS\OXFORD\JAI_ACCELERATOR_COURSE\SUPERFISH\SEBSCAVITY1\SEBS_CAVITY1.AF
+ZoomLimits  1   -0.50000000       92.500000     -0.43294340       1147.7329       0.0000000    
+ZoomLimits  2    -79.258476       1408.5015      -21.095524       1128.5372       0.0000000    
+ZoomLimits  3     0.0000000       1449.4118       0.0000000       1120.0000       0.0000000    
+ZoomLevel=3
+MaxZoomLevel=3
